@@ -1,0 +1,33 @@
+"*":
+  "atom-autocomplete-php":
+    binComposer: "/usr/bin/composer"
+  core:
+    automaticallyUpdate: false
+    telemetryConsent: "no"
+    themes: [
+      "nucleus-dark-ui"
+      "seti-syntax"
+    ]
+  "duotone-dark-syntax":
+    color:
+      duo: "#2abf67"
+      uno: "#a698e2"
+  editor:
+    fontFamily: "Fira Mono"
+  "exception-reporting":
+    userId: "794052ee-7f1f-3fb6-cf13-ce99f0156184"
+  linter: {}
+  "linter-ui-default":
+    panelHeight: 49
+    showPanel: true
+  "seti-syntax":
+    dynamicColor: false
+  "tree-view": {}
+  wakatime:
+    apikey: "Saved in your ~/.wakatime.cfg file"
+  welcome:
+    showOnStartup: false
+".blade.html.php.text":
+  editor:
+    commentEnd: " --}}"
+    commentStart: "{{-- "
